@@ -10,6 +10,12 @@ body {
     font-weight: 600;
 }
 
+// override hamburger menu
+.nav-toggle span {
+    height: 2px;
+    width: 18px;
+}
+
 .main-container {
     padding-top: 20px;
 }
@@ -38,7 +44,7 @@ body {
     }
 }
 
-/* media queries */
+// media queries
 @include desktop {
     .nav {
         min-height: 60px;

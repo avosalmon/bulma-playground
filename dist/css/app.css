@@ -3825,6 +3825,10 @@ body {
   font-size: 20px;
   font-weight: 600; }
 
+.nav-toggle span {
+  height: 2px;
+  width: 18px; }
+
 .main-container {
   padding-top: 20px; }
 
@@ -3846,7 +3850,6 @@ body {
     color: #333333;
     font-weight: 600; }
 
-/* media queries */
 @media screen and (min-width: 980px) {
   .nav {
     min-height: 60px; }
