@@ -3817,13 +3817,34 @@ a.panel-block:hover {
       .footer a:not(.icon):hover, .footer a:visited:not(.icon):hover {
         border-bottom-color: #1fc8db; }
 
+body {
+  background-color: #F4F4F4; }
+
+.header {
+  background-color: #FFFFFF;
+  color: #333333; }
+  .header h1 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 18px 0; }
+
+.main-container {
+  padding-top: 20px; }
+
+.post-title {
+  background-color: #FFFFFF;
+  color: #333333;
+  font-weight: 600; }
+
+.post-tag {
+  font-weight: 600; }
+
+.post-thumbnail {
+  width: 100%; }
+
+/* media queries */
 @media screen and (min-width: 980px) {
   .main-container {
     width: 90%;
     margin: 0 auto; } }
-
-.post-tag {
-  font-weight: 500; }
-
-.post-thumbnail {
-  width: 100%; }
