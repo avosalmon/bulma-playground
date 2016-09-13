@@ -3820,14 +3820,10 @@ a.panel-block:hover {
 body {
   background-color: #F4F4F4; }
 
-.header {
-  background-color: #FFFFFF;
-  color: #333333; }
-  .header h1 {
-    font-size: 20px;
-    font-weight: 600;
-    text-align: center;
-    padding: 18px 0; }
+#site-title {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 600; }
 
 .main-container {
   padding-top: 20px; }
