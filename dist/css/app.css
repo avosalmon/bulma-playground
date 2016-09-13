@@ -3816,3 +3816,9 @@ a.panel-block:hover {
       border-bottom: 1px solid #d3d6db; }
       .footer a:not(.icon):hover, .footer a:visited:not(.icon):hover {
         border-bottom-color: #1fc8db; }
+
+.post-tag {
+  font-weight: 500; }
+
+.post-thumbnail {
+  width: 100%; }
