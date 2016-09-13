@@ -3837,7 +3837,14 @@ body {
   font-weight: 600; }
 
 .post-thumbnail {
-  width: 100%; }
+  width: 100%;
+  display: block; }
+
+.menu-list {
+  background-color: #FFFFFF; }
+  .menu-list li {
+    color: #333333;
+    font-weight: 600; }
 
 /* media queries */
 @media screen and (min-width: 980px) {
