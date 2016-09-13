@@ -3817,6 +3817,11 @@ a.panel-block:hover {
       .footer a:not(.icon):hover, .footer a:visited:not(.icon):hover {
         border-bottom-color: #1fc8db; }
 
+@media screen and (min-width: 980px) {
+  .main-container {
+    width: 90%;
+    margin: 0 auto; } }
+
 .post-tag {
   font-weight: 500; }
 
