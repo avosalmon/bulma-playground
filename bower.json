@@ -1,0 +1,12 @@
+{
+  "name": "avosalmon/bulma-playground",
+  "description": "Playground for Bulma css framework",
+  "version": "1.0.0",
+  "homepage": "https://github.com/avosalmon/bulma-playground",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bulma": "0.1.2"
+  },
+  "devDependencies": {}
+}
